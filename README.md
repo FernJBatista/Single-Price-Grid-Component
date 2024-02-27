@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [GitHub](https://your-solution-url.com)
--   Live Site URL: [Live Site](https://your-live-site-url.com)
+-   Solution URL: [GitHub](https://github.com/FernJBatista/Single-Price-Grid-Component)
+-   Live Site URL: [Live Site](https://fernjbatista.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
